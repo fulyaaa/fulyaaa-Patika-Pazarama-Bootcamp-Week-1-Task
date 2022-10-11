@@ -1,4 +1,4 @@
-# first-Assignment
+# Week 1 Assignment
 
 ## Ödev 1 
 Kotlin Alıştırmaları
@@ -26,7 +26,7 @@ The first line of the input consists of an integer .
 The next line contains  space-separated integers contained in the array. 
 Output Format Return the integer sum of the elements in the array. 
 
-## Ödev 4
+## Ödev 3
 
 First Factorial
  Have the function FirstFactorial(num) take the num parameter being passed and return the factorial of it. For example: if num = 4, then your program should return (4 * 3 * 2 * 1) = 24. For the test cases, the range will be between 1 and 18 and the input will always be an integer. 
@@ -37,7 +37,7 @@ Input: 8 Output: 40320
 
 private fun first Factorial(num: Int): Int { }
 
-## Ödev 5
+## Ödev 4
 
 Questions Marks Have the function QuestionsMarks(str) take the str string parameter, which will contain single digit numbers, letters, and question marks, and check if there are exactly 3 question marks between every pair of two numbers that add up to 10. If so, then your program should return the string true, otherwise it should return the string false. If there aren't any two numbers that add up to 10 in the string, then your program should return false as well. For example: if str is "arrb6???4xxbl5???eee5" then your program should return true because there are exactly 3 question marks between 6 and 4, and 3 question marks between 5 and 5 at the end of the string. 
 Examples: 
